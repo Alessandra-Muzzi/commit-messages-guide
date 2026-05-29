@@ -29,7 +29,7 @@ Per massimizzare questi risultati, possiamo usare alcune buone pratiche e standa
 
 Queste sono alcune (buone) pratiche collezionate dalla mia esperienza, da articoli su internet, e altre guide. Se ne avete altre (o non siete d'accordo su alcune) sentitevi liberi di aprire una Pull Request e contribuire.
 
-### Uso della forma imperativa
+### Uso della forma indicativa
 
 ```
 # Corretto
@@ -41,9 +41,9 @@ Usa InventoryBackendPool per recuperare il backend dell'inventario
 Usato InventoryBackendPool per recuperare il backend dell'inventario
 ```
 
-_Ma perché usare la forma imperativa?_
+_Ma perché usare la forma indicativa?_
 
-Un messaggio di commit descrive cosa fa il cambiamento (a cui fa riferimento), i suoi effetti,, non cosa è stato fatto.
+Un messaggio di commit descrive cosa fa il cambiamento (a cui fa riferimento), i suoi effetti, non cosa è stato fatto.
 
 ### La prima lettera in maiuscolo
 
